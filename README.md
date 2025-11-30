@@ -37,16 +37,18 @@ Users can view detailed information about each book, filter by category, and enj
 - **Tools:** Git & GitHub, VS Code  
 
 ---
+---
 
 ## 💻 Demo
 ![Book Store Demo](https://via.placeholder.com/800x400.png?text=Book+Store+Webpage+Demo)  
-*Replace this placeholder with your actual live screenshot or GIF.*
+*Replace this placeholder with a screenshot or GIF of your live website.*
 
 ---
 
 ## 🔗 Live Link
-[View Live Project](#)  
-*Replace `#` with your deployed project URL.*
+[🌐 View Live Project](https://your-live-project-link.com)  
+*Replace the above URL with your actual deployed website link.*
+
 
 ---
 
