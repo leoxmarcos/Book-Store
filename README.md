@@ -38,16 +38,7 @@ Users can view detailed information about each book, filter by category, and enj
 
 ---
 ---
-
-## 💻 Demo
-![Book Store Demo](https://via.placeholder.com/800x400.png?text=Book+Store+Webpage+Demo)  
-*Replace this placeholder with a screenshot or GIF of your live website.*
-
----
-
-## 🔗 Live Link
-[🌐 View Live Project](https://your-live-project-link.com)  
-*Replace the above URL with your actual deployed website link.*
+ 
 
 
 ---
