@@ -1,58 +1,73 @@
-# 📚 Book Store Webpage
-
+<!-- ====================== HEADER ====================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=Welcome+to+the+Book+Store!;Browse+•+Discover+•+Enjoy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=2500&pause=600&color=00FFFF&center=true&vCenter=true&width=900&lines=📚+Welcome+to+the+Book+Store;Browse+•+Discover+•+Read+•+Repeat;A+Modern+Online+Book+Experience+✨" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Website-Books%20Display-00FFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/leoxmarcos/Book-Store?color=00FFFF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/leoxmarcos/Book-Store?color=00FFFF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/leoxmarcos/Book-Store?color=00FFFF&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active%20Development-00FFFF?style=for-the-badge" />
 </p>
 
 ---
 
-## 🌟 Project Overview
-The **Book Store Webpage** is a modern, responsive web application that allows users to explore, search, and browse books online.  
-Users can view detailed information about each book, filter by category, and enjoy a smooth, interactive interface.  
+## 🌌 About the Project
+
+> **Book Store Webpage** is a **sleek, modern, and fully responsive** online book browsing platform designed to deliver a **smooth and delightful reading discovery experience**.
+
+📖 Whether you're searching for bestsellers, exploring new authors, or browsing categories — this platform makes it **fast, beautiful, and intuitive**.
+
+---
+
+## ✨ Key Highlights
+
+🚀 **Fast & Interactive UI**  
+📱 **Fully Responsive (Mobile • Tablet • Desktop)**  
+🔍 **Smart Search & Filtering**  
+🎨 **Modern Animations & Smooth Transitions**  
+🔥 **Scalable Backend with Firebase**  
 
 ---
 
 ## 🎯 Features
-- Browse books by category, author, and popularity  
-- Search for books by title or keyword  
-- Display book cover, description, ratings, and availability  
-- Fully responsive design for desktop, tablet, and mobile  
-- Interactive UI with animations  
+
+✔ Browse books by **category, author & popularity**  
+✔ Search books by **title or keywords**  
+✔ View **book covers, descriptions, ratings & availability**  
+✔ Clean UI with **hover effects & animations**  
+✔ Optimized for **performance & accessibility**  
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,firebase,git,github,vscode" />
 </p>
 
-- **Languages:** HTML, CSS, JavaScript  
-- **Frameworks/Libraries:** React.js, Next.js  
-- **Backend/Database:** Firebase  
-- **Tools:** Git & GitHub, VS Code  
-
----
----
- 
-
+| Category | Technologies |
+|--------|-------------|
+| 🌐 Frontend | HTML, CSS, JavaScript |
+| ⚛ Framework | React.js, Next.js |
+| 🔥 Backend | Firebase |
+| 🧰 Tools | Git, GitHub, VS Code |
 
 ---
 
-## 📁 Installation
+## 🧠 Project Structure
+
 ```bash
-# Clone the repository
-git clone https://github.com/leoxmarcos/Book-Store.git
-
-# Navigate to the project folder
-cd Book-Store
-
-# Install dependencies
-npm install
-
-# Run the development server
-npm run dev
+Book-Store/
+├── public/
+│   └── assets/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── styles/
+│   └── utils/
+├── package.json
+└── README.md
