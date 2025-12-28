@@ -6,12 +6,11 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/leoxmarcos/Book-Store?color=00FFFF&style=for-the-badge" />
   <img src="https://img.shields.io/github/forks/leoxmarcos/Book-Store?color=FFA500&style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/leoxmarcos/Book-Store?color=FE7A36&style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/leoxmarcos/Book-Store?color=00FFFF&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Status-Active%20Development-FFA500?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20Development-00FFFF?style=for-the-badge" />
-</p>
+ >
 
 ---
 
