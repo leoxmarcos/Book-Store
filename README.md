@@ -1,6 +1,6 @@
 <!-- ====================== HEADER ====================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=2500&pause=600&color=00FFFF&center=true&vCenter=true&width=900&lines=📚+Welcome+to+the+Book+Store;Browse+•+Discover+•+Read+•+Repeat;A+Modern+Online+Book+Experience+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=2500&pause=600&color=FF7A18&center=true&vCenter=true&width=900&lines=📚+Welcome+to+the+Book+Store;Browse+•+Discover+•+Read+•+Repeat;A+Modern+Online+Book+Experience+✨" />
 </h1>
 
 <p align="center">
